@@ -13,8 +13,10 @@
                 "false",
                 "--server.enableXsrfProtection",
                 "false",
+                "--server.address",
+                "0.0.0.0",
                 "--server.port",
-                "8080"
+                "8080",
             ],
             "console": "integratedTerminal",
             "justMyCode": true
